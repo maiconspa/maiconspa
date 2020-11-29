@@ -9,7 +9,7 @@
 </div>
 
 <p>
-  🔗 Faço uns posts ou compartilho conteúdos que acho interessante no
+  🔗 Faço uns posts e compartilho conteúdos que acho interessante no
   <a href="https://www.linkedin.com/in/maiconspa/" target="_blank">
     meu Linkedin
   </a>
