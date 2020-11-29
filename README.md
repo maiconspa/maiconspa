@@ -4,7 +4,7 @@
 
 <div>
   <p>💻 Eu estou trabalhando atualmente com Javascript, ReactJS e suas libs (Hooks, Redux, Styled Components...)</p>
-  <p>📚 Estudando NodeJS e React Native</p>
+  <p>📚 Estudando UX, Cloud, NodeJS e React Native</p>
   <p>🤔 Interessado em Python, análise de dados e machine learning</p>
 </div>
 
