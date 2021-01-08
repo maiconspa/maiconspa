@@ -14,6 +14,5 @@
     meu Linkedin
   </a>
 </p>
-  
-<h3> Meus Status simplificados </h3>
+
 <img src="https://github-readme-stats.vercel.app/api?username=maiconspa&show_icons=true" alt="maiconspa github status" />
