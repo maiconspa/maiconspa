@@ -3,8 +3,8 @@
 <h3> 🎉 Bem vindx ao meu perfil! </h3>
 
 <div>
-  <p>💻 Eu estou trabalhando atualmente com Javascript, ReactJS e suas libs (Hooks, Redux, Styled Components...)</p>
-  <p>📚 Estudando UX, Cloud, NodeJS e React Native</p>
+  <p>💻 Eu estou trabalhando atualmente com NodeJS e Java</p>
+  <p>📚 Estudando UX, Cloud, Java e Data Science</p>
   <p>🤔 Interessado em Python, análise de dados e machine learning</p>
 </div>
 
