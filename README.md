@@ -3,9 +3,7 @@
 <h3> 🎉 Bem vindx ao meu perfil! </h3>
 
 <div>
-  <p>💻 Eu estou trabalhando atualmente com NodeJS e Java</p>
-  <p>📚 Estudando UX, Cloud, Java e Data Science</p>
-  <p>🤔 Interessado em Python, análise de dados e machine learning</p>
+  <p>💻 Java, Node e Angular</p>
 </div>
 
 <p>
