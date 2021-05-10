@@ -3,7 +3,10 @@
 <h3> 🎉 Bem vindx ao meu perfil! </h3>
 
 <div>
-  <p>💻 Java, Node e Angular</p>
+  <h3>Desenvolvedor Fullstack</h3>
+  <p>⚙️ Backend: Java e Node</p>
+  <p>🖥 Frontend: Angular e React</p>
+  <p>☁️ Cloud: IBM e Google</p>
 </div>
 
 <p>
