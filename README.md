@@ -6,7 +6,7 @@
   <h3>Desenvolvedor Fullstack</h3>
   <p>⚙️ Backend: Java e Node</p>
   <p>🖥 Frontend: Angular e React</p>
-  <p>☁️ Cloud: IBM e Google</p>
+  <p>☁️ Cloud: IBM, Azure e AWS</p>
 </div>
 
 <p>
