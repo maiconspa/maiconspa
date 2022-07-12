@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-<div align="left">
+<div>
   <h2>Social<h2/>
     
   <a href="mailto:maiconsouzapa@gmail.com">
