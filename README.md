@@ -1,5 +1,4 @@
-<h1 align="center">Hi! 👋, welcome to my profile :)</h1>
-<h3 align="center">I'm a full stack developer and Data Science student</h3>
+<img src="./readme cover.png" />
 
 <h3 align="left">If you like metrics...</h3>
 
