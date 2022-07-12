@@ -27,18 +27,18 @@
 <br/>
 <br/>
 
-## Social
+## Find me
 <div>
   <a href="mailto:maiconsouzapa@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank">
   </a>
   
   <a href="https://www.linkedin.com/in/maiconspa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin" target="_blank">
   </a>
   
   <a href="https://app.datacamp.com/profile/maiconaraujo" target="_blank">
-    <img src="https://img.shields.io/badge/-Datacamp-%230077B5?style=for-the-badge&logo=datacamp" target="_blank">
+    <img src="https://img.shields.io/badge/-Datacamp-%23333?style=for-the-badge&logo=datacamp" target="_blank">
   </a>
   
   
