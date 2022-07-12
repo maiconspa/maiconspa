@@ -1,4 +1,6 @@
-<img src="./readme cover.png" />
+<div align="center">
+  <img src="./readme cover.png" />
+<div/>
 
 <h3 align="left">If you like metrics...</h3>
 
