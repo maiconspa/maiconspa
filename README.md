@@ -40,6 +40,8 @@
   <a href="https://app.datacamp.com/profile/maiconaraujo" target="_blank">
     <img src="https://img.shields.io/badge/-Datacamp-%23333?style=for-the-badge&logo=datacamp" target="_blank">
   </a>
-  
-  
 <div/>
+
+<br/>
+
+<img src="https://www.codewars.com/users/maiconspa/badges/small" />
