@@ -36,10 +36,6 @@
   <a href="https://www.linkedin.com/in/maiconspa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin" target="_blank">
   </a>
-  
-  <a href="https://app.datacamp.com/profile/maiconaraujo" target="_blank">
-    <img src="https://img.shields.io/badge/-Datacamp-%23333?style=for-the-badge&logo=datacamp" target="_blank">
-  </a>
 <div/>
 
 <br/>
