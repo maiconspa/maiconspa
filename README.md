@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./readme cover.png" />
+  <img src="./readme_cover.png" />
 <div/>
 
 <br/>
